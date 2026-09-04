@@ -1,0 +1,13 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+*.tmp
+*.bak
+
+# Large generated files
+*.mp4
+*.mov
+*.avi
+*.bag
+*.db3
